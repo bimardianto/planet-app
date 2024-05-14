@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/civPlanetDetail"
+            android:layout_width="175dp"
+            android:layout_height="250dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/hnqhcokq"
+            android:src="@drawable/pngegg"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/tvJudulPlanet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:text="@string/planet_name"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@+id/civPlanetDetail"
+            app:layout_constraintTop_toTopOf="@+id/civPlanetDetail" />
+
+        <TextView
+            android:id="@+id/tvNamaPlanetDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/judul_planet"
+            android:textSize="12sp"
+            app:layout_constraintStart_toStartOf="@+id/tvJudulPlanet"
+            app:layout_constraintTop_toBottomOf="@+id/tvJudulPlanet" />
+
+        <TextView
+            android:id="@+id/tvJudulPlanetTipe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/planet_type"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/tvJudulPlanet"
+            app:layout_constraintTop_toBottomOf="@+id/tvNamaPlanetDetail" />
+
+        <TextView
+            android:id="@+id/tvPlanetTipeDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radius"
+            android:textSize="12sp"
+            app:layout_constraintStart_toStartOf="@+id/tvJudulPlanetTipe"
+            app:layout_constraintTop_toBottomOf="@+id/tvJudulPlanetTipe" />
+
+        <TextView
+            android:id="@+id/tvJudulRadius"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/radius"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/tvJudulPlanet"
+            app:layout_constraintTop_toBottomOf="@+id/tvPlanetTipeDetail" />
+
+        <TextView
+            android:id="@+id/tvRadiusDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radius_detail"
+            android:textSize="12sp"
+            app:layout_constraintStart_toStartOf="@+id/tvJudulRadius"
+            app:layout_constraintTop_toBottomOf="@+id/tvJudulRadius" />
+
+        <TextView
+            android:id="@+id/tvJudulSuhu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/average_temperature"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/tvJudulPlanet"
+            app:layout_constraintTop_toBottomOf="@+id/tvRadiusDetail" />
+
+        <TextView
+            android:id="@+id/tvSuhuDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/temperature_detail"
+            android:textSize="12sp"
+            app:layout_constraintStart_toStartOf="@+id/tvJudulSuhu"
+            app:layout_constraintTop_toBottomOf="@+id/tvJudulSuhu" />
+
+        <TextView
+            android:id="@+id/tvJudulGravitasi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/gravity"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/tvJudulPlanet"
+            app:layout_constraintTop_toBottomOf="@+id/tvSuhuDetail" />
+
+        <TextView
+            android:id="@+id/tvGravitasiDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gravity_detail"
+            android:textSize="12sp"
+            app:layout_constraintStart_toStartOf="@id/tvJudulGravitasi"
+            app:layout_constraintTop_toBottomOf="@+id/tvJudulGravitasi" />
+
+        <TextView
+            android:id="@+id/tvJudulDeskripsi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/description"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/civPlanetDetail"
+            app:layout_constraintTop_toBottomOf="@+id/civPlanetDetail" />
+
+        <TextView
+            android:id="@+id/tvDeskripsiDetail"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="10dp"
+            android:justificationMode="inter_word"
+            android:text="@string/deskripsi_planet"
+            android:textSize="15sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/tvJudulDeskripsi"
+            app:layout_constraintTop_toBottomOf="@+id/tvJudulDeskripsi" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_author">bimaa289@gmail.com</string>
+    <string name="name_author">Bima Ardianto</string>
+    <string name="about">About</string>
+    <string name="about_menu">About</string>
+    <string name="share_menu">share</string>
+    <string name="radius_detail">Radius Detail</string>
+    <string name="deskripsi_planet">Deskripsi Planet Detail</string>
+    <string name="nama_planet">Nama Planet</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="description">Description</string>
+    <string name="planet_name">Planet Name</string>
+    <string name="planet_type">Planet Type</string>
+    <string name="radius">Radius</string>
+    <string name="average_temperature">Average Temperature</string>
+    <string name="temperature_detail">Temperature Detail</string>
+    <string name="gravity">Gravity</string>
+    <string name="gravity_detail">Gravity detail</string>
+
+    <string-array name="planetName">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Proxim Centauri B</item>
+        <item>HD 189733 b</item>
+    </string-array>
+
+    <string-array name="planetType">
+        <item>Terrestrial</item>
+        <item>Terrestrial</item>
+        <item>Terrestrial</item>
+        <item>Terrestrial</item>
+        <item>Gas giants</item>
+        <item>Gas giants</item>
+        <item>Gas giants</item>
+        <item>Gas giants</item>
+        <item>Super Earth</item>
+        <item>Gas giants</item>
+    </string-array>
+
+    <string-array name="planetDescription">
+        <item>
+            The mercury planet is the first closest planet to the sun in the order of solar system members. Mercury\'s surface temperatures are both extremely hot and cold. Because the planet is so close to the Sun, day temperatures can reach highs of 800°F (430°C). Without an atmosphere to retain that heat at night, temperatures can dip as low as -290°F (-180°C).
+            \n\nDespite its proximity to the Sun, Mercury is not the hottest planet in our solar system – that title belongs to nearby Venus, thanks to its dense atmosphere. But Mercury is the fastest planet, zipping around the Sun every 88 Earth days.
+            \n\nMercury is appropriately named for the swiftest of the ancient Roman gods.
+            \n\nMercury's environment is not conducive to life as we know it. The temperatures and solar radiation that characterize this planet are most likely too extreme for organisms to adapt to. Mercury doesn't have moons and rings.
+        </item>
+        <item>
+            Venus is the second planet from the Sun and our closest planetary neighbor. Similar in structure and size to Earth, Venus spins slowly in the opposite direction from most planets. Its thick atmosphere traps heat in a runaway greenhouse effect, making it the hottest planet in our solar system with surface temperatures hot enough to melt lead. Glimpses below the clouds reveal volcanoes and deformed mountains.
+            \n\nVenus is named for the ancient Roman goddess of love and beauty, who was known as Aphrodite to the ancient Greeks. Most features on Venus are named for women.
+            \n\nThirty miles up (about 50 kilometers) from the surface of Venus temperatures range from 86 to 158 Fahrenheit (30 to 70 Celsius). This temperature range could accommodate Earthly life, such as “extremophile” microbes. And atmospheric pressure at that height is similar to what we find on Earth’s surface.
+            \n\nAt the tops of Venus’ clouds, whipped around the planet by winds measured as high as 224 mph (360 kph), we find another transformation. Persistent, dark streaks appear. Scientists are so far unable to explain why these streaks remain stubbornly intact, even amid hurricane-force winds. They also have the odd habit of absorbing ultraviolet radiation. \n\n" +
+            \n\nVenus has no moons and rings.
+        </item>
+        <item>
+            The earth planet is the third closest planet to the sun in the order of solar system members. While Earth is only the fifth largest planet in the solar system, it is the only world in our solar system with liquid water on the surface. Just slightly larger than nearby Venus, Earth is the biggest of the four planets closest to the Sun, all of which are made of rock and metal.
+            \n\nEarth is the only planet in the Solar System whose English name does not come from Greek or Roman mythology. The name was taken from Old English and Germanic. It simply means \"the ground.\" There are, of course, many names for our planet in the thousands of languages spoken by the people of the third planet from the Sun.
+            \n\nThe name Earth is at least 1,000 years old. All of the planets, except for Earth, were named after Greek and Roman gods and goddesses. However, the name Earth is a Germanic word, which simply means “the ground.”
+            \n\nEarth has a very hospitable temperature and mix of chemicals that have made life abundant here. Most notably, Earth is unique in that most of our planet is covered in liquid water, since the temperature allows liquid water to exist for extended periods of time. Earth's vast oceans provided a convenient place for life to begin about 3.8 billion years ago.
+        </item>
+        <item>
+            The mars planet is the fourth closest planet to the sun in the order of solar system members. Mars is one of the most explored bodies in our solar system, and it\'s the only planet where we\'ve sent rovers to roam the alien landscape. NASA missions have found lots of evidence that Mars was much wetter and warmer, with a thicker atmosphere, billions of years ago.
+            \n\nMars was named by the ancient Romans for their god of war because its reddish color was reminiscent of blood. Other civilizations also named the planet for this attribute – for example, the Egyptians called it \"Her Desher,\" meaning \"the red one.\" Even today, it is frequently called the \"Red Planet\" because iron minerals in the Martian dirt oxidize, or rust, causing the surface to look red.
+            \n\nEven today, it is frequently called the \"Red Planet\" because iron minerals in the Martian dirt oxidize, or rust, causing the surface to look red.
+            \n\nScientists don\'t expect to find living things currently thriving on Mars. Instead, they\'re looking for signs of life that existed long ago, when Mars was warmer and covered with water.
+            \n\nMars has two small moons, Phobos and Deimos, that may be captured asteroids. They're potato-shaped because they have too little mass for gravity to make them spherical.
+            \n\nThe moons get their names from the horses that pulled the chariot of the Greek god of war, Ares.
+            \n\nPhobos, the innermost and larger moon, is heavily cratered, with deep grooves on its surface. It is slowly moving towards Mars and will crash into the planet or break apart in about 50 million years.
+            \n\nDeimos is about half as big as Phobos and orbits two and a half times farther away from Mars. Oddly-shaped Deimos is covered in loose dirt that often fills the craters on its surface, making it appear smoother than pockmarked Phobos.
+            \n\nMars has no rings. However, in 50 million years when Phobos crashes into Mars or breaks apart, it could create a dusty ring around the Red Planet.
+        </item>
+        <item>
+            The jupiter planet is the fifth closest planet to the sun in the order of solar system members. Jupiter\'s stripes and swirls are actually cold, windy clouds of ammonia and water, floating in an atmosphere of hydrogen and helium. Jupiter’s iconic Great Red Spot is a giant storm bigger than Earth that has raged for hundreds of years.
+            \n\nJupiter is named for the king of the ancient Roman gods.
+            \n\nJupiter, being the biggest planet, gets its name from the king of the ancient Roman gods.
+            \n\nJupiter’s environment is probably not conducive to life as we know it. The temperatures, pressures, and materials that characterize this planet are most likely too extreme and volatile for organisms to adapt to.
+            \n\nWhile planet Jupiter is an unlikely place for living things to take hold, the same is not true of some of its many moons. Europa is one of the likeliest places to find life elsewhere in our solar system. There is evidence of a vast ocean just beneath its icy crust, where life could possibly be supported.
+            \n\nWith four large moons and many smaller moons, Jupiter forms a kind of miniature solar system.
+            \n\nJupiter has 95 moons that are officially recognized by the International Astronomical Union. The four largest moons – Io, Europa, Ganymede, and Callisto – were first observed by the astronomer Galileo Galilei in 1610 using an early version of the telescope. These four moons are known today as the Galilean satellites, and they're some of the most fascinating destinations in our solar system.
+            \n\nIo is the most volcanically active body in the solar system. Ganymede is the largest moon in the solar system (even bigger than the planet Mercury). Callisto’s very few small craters indicate a small degree of current surface activity. A liquid-water ocean with the ingredients for life may lie beneath the frozen crust of Europa. Europa is the target of NASA's Europa Clipper mission slated to launch in 2024.
+            \n\nDiscovered in 1979 by NASA's Voyager 1 spacecraft, Jupiter's rings were a surprise. The rings are composed of small, dark particles, and they are difficult to see except when backlit by the Sun. Data from the Galileo spacecraft indicate that Jupiter's ring system may be formed by dust kicked up as interplanetary meteoroids smash into the giant planet's small innermost moons.
+        </item>
+        <item>
+            Saturn is the sixth planet from the Sun and the second-largest planet in our solar system. Like fellow gas giant Jupiter, Saturn is a massive ball made mostly of hydrogen and helium. Saturn is not the only planet to have rings, but none are as spectacular or as complex as Saturn\'s. Saturn also has dozens of moons.
+            \n\nFrom the jets of water that spray from Saturn\'s moon Enceladus to the methane lakes on smoggy Titan, the Saturn system is a rich source of scientific discovery and still holds many mysteries.
+            \n\nThe farthest planet from Earth discovered by the unaided human eye, Saturn has been known since ancient times. The planet is named for the Roman god of agriculture and wealth, who was also the father of Jupiter.
+            \n\nSaturn\'s environment is not conducive to life as we know it. The temperatures, pressures, and materials that characterize this planet are most likely too extreme and volatile for organisms to adapt to.
+            \n\nWhile planet Saturn is an unlikely place for living things to take hold, the same is not true of some of its many moons. Satellites like Enceladus and Titan, home to internal oceans, could possibly support life.
+            \n\nSaturn is home to a vast array of intriguing and unique worlds. From the haze-shrouded surface of Titan to crater-riddled Phoebe, each of Saturn\'s moons tells another piece of the story surrounding the Saturn system. As of June 8, 2023, Saturn has 146 moons in its orbit, with others continually awaiting confirmation of their discovery and official naming by the International Astronomical Union (IAU).
+            \n\nSaturn's rings are thought to be pieces of comets, asteroids, or shattered moons that broke up before they reached the planet, torn apart by Saturn's powerful gravity. They are made of billions of small chunks of ice and rock coated with other materials such as dust. The ring particles mostly range from tiny, dust-sized icy grains to chunks as big as a house. A few particles are as large as mountains. The rings would look mostly white if you looked at them from the cloud tops of Saturn, and interestingly, each ring orbits at a different speed around the planet.
+            \n\nSaturn's ring system extends up to 175,000 miles (282,000 kilometers) from the planet, yet the vertical height is typically about 30 feet (10 meters) in the main rings. Named alphabetically in the order they were discovered, the rings are relatively close to each other, with the exception of a gap measuring 2,920 miles (4,700 kilometers) in width called the Cassini Division that separates Rings A and B. The main rings are A, B, and C. Rings D, E, F, and G are fainter and more recently discovered.
+            \n\nStarting at Saturn and moving outward, there is the D ring, C ring, B ring, Cassini Division, A ring, F ring, G ring, and finally, the E ring. Much farther out, there is the very faint Phoebe ring in the orbit of Saturn's moon Phoebe.
+        </item>
+        <item>
+            The seventh planet from the Sun with the third largest diameter in our solar system, Uranus is very cold and windy. The ice giant is surrounded by 13 faint rings and 27 small moons as it rotates at a nearly 90-degree angle from the plane of its orbit. This unique tilt makes Uranus appear to spin sideways, orbiting the Sun like a rolling ball.
+            \n\nThe first planet found with the aid of a telescope, Uranus was discovered in 1781 by astronomer William Herschel, although he originally thought it was either a comet or a star. It was two years later that the object was universally accepted as a new planet, in part because of observations by astronomer Johann Elert Bode.
+            \n\nWilliam Herschel tried unsuccessfully to name his discovery Georgium Sidus after King George III. Instead, the planet was named for Uranus, the Greek god of the sky, as suggested by Johann Bode.
+            \n\nUranus\' environment is not conducive to life as we know it. The temperatures, pressures, and materials that characterize this planet are most likely too extreme and volatile for organisms to adapt to.
+            \n\nUranus has 27 known moons. While most of the satellites orbiting other planets take their names from Greek or Roman mythology, Uranus' moons are unique in being named for characters from the works of William Shakespeare and Alexander Pope.
+            \n\nAll of Uranus' inner moons appear to be roughly half water ice and half rock. The composition of the outer moons remains unknown, but they are likely captured asteroids.
+            \n\nUranus has two sets of rings. The inner system of nine rings consists mostly of narrow, dark grey rings. There are two outer rings: the innermost one is reddish like dusty rings elsewhere in the solar system, and the outer ring is blue like Saturn's E ring.
+            \n\nIn order of increasing distance from the planet, the rings are called Zeta, 6, 5, 4, Alpha, Beta, Eta, Gamma, Delta, Lambda, Epsilon, Nu, and Mu. Some of the larger rings are surrounded by belts of fine dust.
+        </item>
+        <item>
+            The neptune planet is the eight and latest closest planet to the sun in the order of solar system members. Dark, cold, and whipped by supersonic winds, ice giant Neptune is the eighth and most distant planet in our solar system. More than 30 times as far from the Sun as Earth, Neptune is the only planet in our solar system not visible to the naked eye. In 2011 Neptune completed its first 165-year orbit since its discovery in 1846.
+            \n\nNeptune is so far from the Sun that high noon on the big blue planet would seem like dim twilight to us. The warm light we see here on our home planet is roughly 900 times as bright as sunlight on Neptune.
+            \n\nThe ice giant Neptune was the first planet located through mathematical calculations. Using predictions made by Urbain Le Verrier, Johann Galle discovered the planet in 1846. The planet is named after the Roman god of the sea, as suggested by Le Verrier.
+            \n\nNeptune\'s environment is not conducive to life as we know it. The temperatures, pressures, and materials that characterize this planet are most likely too extreme and volatile for organisms to adapt to.
+            \n\nNeptune has 14 known moons. Neptune\'s largest moon Triton was discovered on October 10, 1846, by William Lassell, just 17 days after Johann Gottfried Galle discovered the planet. Since Neptune was named for the Roman god of the sea, its moons are named for various lesser sea gods and nymphs in Greek mythology.
+            \n\nTriton is the only large moon in the solar system that circles its planet in a direction opposite to the planet's rotation (a retrograde orbit), which suggests that it may once have been an independent object that Neptune captured. Triton is extremely cold, with surface temperatures around minus 391 degrees Fahrenheit (minus 235 degrees Celsius). And yet, despite this deep freeze at Triton, Voyager 2 discovered geysers spewing icy material upward more than 5 miles (8 kilometers). Triton's thin atmosphere, also discovered by Voyager, has been detected from Earth several times since, and is growing warmer, but scientists do not yet know why.
+            \n\nNeptune has at least five main rings and four prominent ring arcs that we know of so far. Starting near the planet and moving outward, the main rings are named Galle, Leverrier, Lassell, Arago, and Adams. The rings are thought to be relatively young and short-lived.
+            \n\nNeptune's ring system also has peculiar clumps of dust called arcs. Four prominent arcs named Liberté (Liberty), Egalité (Equality), Fraternité (Fraternity), and Courage are in the outermost ring, Adams. The arcs are strange because the laws of motion would predict that they would spread out evenly rather than stay clumped together. Scientists now think the gravitational effects of Galatea, a moon just inward from the ring, stabilizes these arcs.
+        </item>
+        <item>
+            Proxima Centauri b is a super Earth exoplanet that orbits an M-type star. Its mass is 1.07 Earths, it takes 11.2 days to complete one orbit of its star, and is 0.04856 AU from its star. Its discovery was announced in 2016.
+            \n\nResearch and observations are ongoing to learn more about this intriguing exoplanet. Scientists use various methods, such as spectroscopy and space-based telescopes, to gather more information about its atmosphere, composition, and potential habitability.
+        </item>
+        <item>
+            HD 189733 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.13 Jupiters, it takes 2.2 days to complete one orbit of its star, and is 0.0313 AU from its star. Its discovery was announced in 2005.
+            \n\nThis far-off blue planet may look like a friendly haven – but don’t be deceived! Weather here is deadly. The planet’s cobalt blue color comes from a hazy, blow-torched atmosphere containing clouds laced with glass. Howling winds send the storming glass sideways at 5,400 mph (2km/s), whipping all in a sickening spiral. It’s death by a million cuts on this slasher planet!
+            \n\nIf seen directly, this planet would look like a deep blue dot, reminiscent of Earth's color as seen from space. That is where the comparison ends.
+            \n\nOn this turbulent alien world, the daytime temperature is nearly 2,000 degrees Fahrenheit, and it possibly rains glass — sideways — in howling, 4,500-mph winds. The cobalt blue color comes not from the reflection of a tropical ocean as it does on Earth, but rather a hazy, blow-torched atmosphere containing high clouds laced with silicate particles. Silicates condensing in the heat could form very small drops of glass that scatter blue light more than red light.
+        </item>
+    </string-array>
+
+    <integer-array name="planetPhoto">
+        <item>@drawable/mercury</item>
+        <item>@drawable/venus</item>
+        <item>@drawable/earth</item>
+        <item>@drawable/mars</item>
+        <item>@drawable/jupiter</item>
+        <item>@drawable/saturn</item>
+        <item>@drawable/uranus</item>
+        <item>@drawable/neptune</item>
+        <item>@drawable/proximcentaurib</item>
+        <item>@drawable/hd189733b</item>
+    </integer-array>
+
+    <string-array name="planetRadius">
+        <item>2,440 km</item>
+        <item>6,051.8 km</item>
+        <item>6,371 km</item>
+        <item>3,389.5 km</item>
+        <item>69,911 km</item>
+        <item>58,232 km</item>
+        <item>25,362 km</item>
+        <item>24,622 km</item>
+        <item>1.03 x Earth (estimate)</item>
+        <item>1.13 x Jupiter</item>
+    </string-array>
+
+    <string-array name="planetAverageTemperature">
+        <item>167°C</item>
+        <item>464°C</item>
+        <item>15°C</item>
+        <item>-65°C</item>
+        <item>-110°C</item>
+        <item>-140°C</item>
+        <item>-195°C</item>
+        <item>-200°C</item>
+        <item>unknown</item>
+        <item>1093.3°C</item>
+    </string-array>
+
+    <string-array name="planetGravity">
+        <item>3.7 m/s²</item>
+        <item>8.87 m/s²</item>
+        <item>9.807 m/s²</item>
+        <item>3.71 m/s²</item>
+        <item>24.79 m/s²</item>
+        <item>10.44 m/s²</item>
+        <item>8.87 m/s²</item>
+        <item>11.15 m/s²</item>
+        <item>unknown</item>
+        <item>21.2 m/s²</item>
+    </string-array>
+
+</resources>
